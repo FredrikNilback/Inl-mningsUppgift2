@@ -1,0 +1,4 @@
+ID,Name,Species,AcceptableCropTypes
+11,Mamma Mu,Cow,[Soy Bean:Wheat:Corn:Oats]
+12,Shaun,Sheep,[Corn:Wheat:Canola]
+13,Agda,Chicken,[Corn:Soy Bean:Oats]
